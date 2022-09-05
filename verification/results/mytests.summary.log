@@ -1,0 +1,6 @@
+/u/s/c/schiedermayer/private/CS552/phase2_submission/verification/mytests/no_hazards.asm SUCCESS CPI:7.4 CYCLES:37 ICOUNT:5 IHITRATE: 75.0 DHITRATE: 0
+/u/s/c/schiedermayer/private/CS552/phase2_submission/verification/mytests/p1-1.asm SUCCESS CPI:8.0 CYCLES:48 ICOUNT:6 IHITRATE: 75.0 DHITRATE: 0
+/u/s/c/schiedermayer/private/CS552/phase2_submission/verification/mytests/p1-2.asm SUCCESS CPI:8.3 CYCLES:50 ICOUNT:6 IHITRATE: 72.7 DHITRATE: 0
+/u/s/c/schiedermayer/private/CS552/phase2_submission/verification/mytests/p1-3.asm SUCCESS CPI:8.6 CYCLES:69 ICOUNT:8 IHITRATE: 78.9 DHITRATE: 100.0
+/u/s/c/schiedermayer/private/CS552/phase2_submission/verification/mytests/p2-1.asm SUCCESS CPI:9.2 CYCLES:55 ICOUNT:6 IHITRATE: 66.7 DHITRATE: 0
+/u/s/c/schiedermayer/private/CS552/phase2_submission/verification/mytests/p2-2.asm SUCCESS CPI:8.7 CYCLES:61 ICOUNT:7 IHITRATE: 73.3 DHITRATE: 0
